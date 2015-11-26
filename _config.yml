@@ -1,7 +1,7 @@
 name: jonnor-test
 favicon: null
 layout_spectrum: 0.572622784646228
-typography_spectrum: 0.2757141792681068
+typography_spectrum: 0.0662
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8384730003308505
-  lightness: 0.8610998617950827
+  brandStrength: 0.6875
+  lightness: 0.3125
   saturation: 0.14117563632316887
   rhythmicContrast: 0.8030840773135424
 purpose: []
