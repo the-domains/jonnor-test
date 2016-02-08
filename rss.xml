@@ -4,7 +4,7 @@
         <description><![CDATA[jonnor-test]]></description>
         <link>https://thegrid.ai/jonnor-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 20:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 21:38:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2222a9-5cb4-487f-a3b8-8ef3f131b260.jpg</link>
             <guid isPermaLink="false">1c2224c1-8ab2-424b-be5a-cca3150cc3d4</guid>
             <pubDate>Thu, 26 Nov 2015 02:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://i.telegraph.co.uk/multimedia/archive/02830/cat_2830677b.jpg"></article>]]></description>
+            <link>http://i.telegraph.co.uk/multimedia/archive/02830/cat_2830677b.jpg</link>
+            <guid isPermaLink="false">8d1db4ca-38cb-40fc-a3d6-135af25d7734</guid>
+            <pubDate>Mon, 08 Feb 2016 21:37:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
