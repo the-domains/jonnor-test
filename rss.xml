@@ -4,7 +4,7 @@
         <description><![CDATA[jonnor-test]]></description>
         <link>https://thegrid.ai/jonnor-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 12:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 12:08:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2222a9-5cb4-487f-a3b8-8ef3f131b260.jpg</link>
             <guid isPermaLink="false">1c2224c1-8ab2-424b-be5a-cca3150cc3d4</guid>
             <pubDate>Thu, 26 Nov 2015 02:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://a.abcnews.go.com/images/Entertainment/AP_KittenBowlBalls_150130_CC_16x9_992.jpg"></article>]]></description>
+            <link>http://a.abcnews.go.com/images/Entertainment/AP_KittenBowlBalls_150130_CC_16x9_992.jpg</link>
+            <guid isPermaLink="false">9011ed65-896e-46da-80eb-731848c67d06</guid>
+            <pubDate>Tue, 09 Feb 2016 12:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://mit.bme.hu/~micskeiz/pages/code_based_test_generation.html</link>
             <guid isPermaLink="false">682898aa-3023-4b66-9e26-2824bddf3115</guid>
             <pubDate>Mon, 01 Feb 2016 20:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RFNoC Overview and Introduction]]></title>
-            <description><![CDATA[<article><h1>RFNoC Overview and Introduction</h1><p>dataflow for FPGAs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7911b5383db52154916d45cacb782c9087d33191.jpg"></article>]]></description>
-            <link>https://youtu.be/UwBZ8xkiTPA</link>
-            <guid isPermaLink="false">bf854959-0fb6-4322-b4e4-91f3aebad061</guid>
-            <pubDate>Thu, 07 Jan 2016 19:02:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
