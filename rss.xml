@@ -4,7 +4,7 @@
         <description><![CDATA[jonnor-test]]></description>
         <link>https://thegrid.ai/jonnor-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 20:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 12:17:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2222a9-5cb4-487f-a3b8-8ef3f131b260.jpg</link>
             <guid isPermaLink="false">1c2224c1-8ab2-424b-be5a-cca3150cc3d4</guid>
             <pubDate>Thu, 26 Nov 2015 02:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jon Nordby]]></title>
+            <description><![CDATA[<article><h1>Jon Nordby</h1><p>At The Grid we do a lot of computationally heavy work server-side, in order to produce websites from user-provided content. This includes image analytics (for understanding the content), constraint solving (for page layout) and image processing (optimization and filtering to achieve a particular look).</p></article>]]></description>
+            <link>http://www.jonnor.com/2015/11/guv-automatic-scaling/</link>
+            <guid isPermaLink="false">06a36094-1059-4cee-befa-c6c51086038d</guid>
+            <pubDate>Sat, 20 Feb 2016 12:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
