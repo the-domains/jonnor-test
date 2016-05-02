@@ -1,7 +1,7 @@
 name: jonnor-test
 favicon: null
-layout_spectrum: 0.40720021608285606
-typography_spectrum: 0.8675086011644453
+layout_spectrum: 0.6390253650024533
+typography_spectrum: 0.7027863431721926
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-  brandStrength: 0.2800778003875166
-  lightness: 0.9922386687248945
-  saturation: 0.04302531643770635
-  rhythmicContrast: 0.8248960317578167
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.19188234489411116
+  lightness: 0.7766318789217621
+  saturation: 0.6301512431818992
+  rhythmicContrast: 0.6777367372997105
 purpose: []
