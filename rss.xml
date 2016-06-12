@@ -4,7 +4,7 @@
         <description><![CDATA[jonnor-test]]></description>
         <link>https://thegrid.ai/jonnor-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 19:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 16:39:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2222a9-5cb4-487f-a3b8-8ef3f131b260.jpg</link>
             <guid isPermaLink="false">1c2224c1-8ab2-424b-be5a-cca3150cc3d4</guid>
             <pubDate>Thu, 26 Nov 2015 02:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Rescaling 3k images. From 0 servers to 25, back to 0 in &lt;4 mins. 0 humans involved. #devops https://github.com/the-grid/guv" src="https://pbs.twimg.com/media/CkdT4fGWEAA4jDb.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/740652896254054401</link>
+            <guid isPermaLink="false">dd87cecc-16d4-4956-8410-5bd4b6bb998a</guid>
+            <pubDate>Sun, 12 Jun 2016 16:39:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prototyper / Interface Designer / Art Director Portfolio / UI/UX]]></title>
